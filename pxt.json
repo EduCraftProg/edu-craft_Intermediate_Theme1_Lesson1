@@ -1,0 +1,15 @@
+{
+    "name": "eduraft-intermediate-theme1-lesson1",
+    "description": "Intermediate Theme1 Lesson1",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "first-tutorial.md",
+        "second-tutorial.md",
+        "third-tutorial.md"
+    ],
+    "preferredEditor": "tsprj"
+}
